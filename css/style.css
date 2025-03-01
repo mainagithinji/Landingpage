@@ -130,7 +130,7 @@
 }
  p{
      margin: 0px;
-     color: #000;
+     color: #6d3b2c;
 }
  .bootstrap-select .dropdown-toggle:focus{
      outline: none !important;
@@ -634,6 +634,12 @@
 }
 .side-menu p{
 	display: inline-block;
+    border-bottom-width: 0px;
+    border-bottom-style: solid;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
 }
  .col-menu .title{
      font-size: 20px;
@@ -2201,8 +2207,8 @@
 }
  .new-account-login h5 {
      font-size: 18px;
-     color: #1111111;
-     font-weight: 600;
+     color: #111111;
+     font-weight:600;
 }
  .new-account-login h5 a:hover{
      color: #b0b435;
@@ -2635,7 +2641,7 @@
     background-color: #f9f9f9;
     min-width: 160px;
     box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
-    z-index: 1;
+    z-index: 10;
 }
 .dropdown-content a {
     color: black;
