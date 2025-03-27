@@ -958,7 +958,7 @@
  .why-text{
      background: #000;
      padding: 15px;
-     border-radius: 9pt;
+     border-radius: 0pt;
 }
  .why-text h4{
      font-size: 16px;
