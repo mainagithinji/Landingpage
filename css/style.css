@@ -1739,6 +1739,8 @@
  .team-description p{
      font-size: 14px;
      margin: 0px;
+     style="color: black; 
+     font-family: 'SF Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
  .hover-team:hover .social{
      opacity: 1;
@@ -2658,6 +2660,30 @@
 .dropdown:hover .dropbtn {
     background-color: #2980b9;
 }
+* {
+    font-family: 'SF Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+}
+.col-lg-6 p {
+    color: black;
+    font-family: 'SF Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.service-block-inner p {
+    color: black;
+    font-family: 'SF Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.service-block-inner h4 {
+    color: black;
+}
+.team-description p{
+    color: black;
+    font-family: 'SF Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.team-description h4{
+    color: black;
+
+}
+
+
 
 
 
